@@ -1,5 +1,5 @@
 # MacOS high-res audio downloader gebaseerd op youtube-dl en automator
-Downloadt de hoogst beschikbare kwaliteit audio. [Bekijk de lijst met ondersteunde websites](https://github.com/ytdl-org/youtube-dl/tree/master/youtube_dl/extractor)
+Download audio in de hoogst beschikbare kwaliteit. [Bekijk de lijst met ondersteunde websites](https://github.com/ytdl-org/youtube-dl/tree/master/youtube_dl/extractor)
 
 ## Installatie
 - Open de terminal-app.
